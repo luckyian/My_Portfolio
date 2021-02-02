@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body style=" background-image: url('https://img.wallpapersafari.com/desktop/1440/900/49/4/MXcEOJ.jpg');">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="col-md-9">
+            <a class="navbar-brand" href="#" style="background-color: rgb(48, 87, 55);">Ian Wren</a>
+            <button class="navbar-toggler  float-right" type="button" data-toggle="collapse"
+                data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <div class="col-md-3">
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="./index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="./contact.html">Contact</a>
+                    <a class="nav-link active" href="./portfolio.html">Portfolio</a>
+                    <a class="nav-link" href="#" tabindex="3" aria-disabled="true"> </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="col-md">
+        <div class="p-5">
+
+        </div>
+    </div>
+
+    <div class="card" id="portfolioCard">
+        <div class="card-body" style="text-decoration-color: whitesmoke;">
+            <h1 style="text-decoration-color: whitesmoke;" class="card-title">Portfolio</h1>
+            <table class="table table-striped table-responsive align-middle">
+                <thead>
+                    <tr>
+                        <th scope="col" class="table-dark">Project</th>
+                        <th scope="col" class="table-dark" id="tabletop">Example</th>
+                        <th scope="col" class="table-dark">Description/Github Repo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row"><a href="https://luckyian.github.io/whats-for-dinner/">What's for dinner?
+                                App</a></th>
+                        <td class="align-middle"><img src="./Assets/whatsfordinner.gif" alt="Group Project 1"
+                                id="tabletop"></td>
+                        <td>The goal of this project was to create an application that will lift some of the burden of deciding what to make for dinner. The "What's for Dinner?" application allows the user to search for online recipes based on ingredients he/she may have on-hand. Additionally, users will have the option to save recipes for future use, which can easily be converted to a PDF to be used offline, or for the more tangible owners of the printer, printed out on paper.        
+                        <br>    <a href="https://github.com/luckyian/whats-for-dinner">Github: https://github.com/luckyian/whats-for-dinner</a>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <th scope="row"><a href="https://luckyian.github.io/Workday_Scheduler/">Workday Scheduler
+                                App</a></th>
+                        <td><img src="./Assets/Workday.gif" alt="Workday Scheduler"  class="p-3" id="tabletop"></td>
+                        <td>In this Workday Scheduler project I added time blocks with a save button to an index.html page, created a javascript file with functions that listen for clicks on save buttons, displays the date at the top of the index.html, uses a 3rd party API to find the current time, and uses that information to color code time blocks on the index.html page.
+
+                            Any input recieved in the text field is saved to local storage and persists over refresh.  Time-blocks change color as the time marches on.  Red for current time, green for future, and grey for past.
+                          <br>  <a href="https://github.com/luckyian/Workday_Scheduler/">Github: https://github.com/luckyian/Workday_Scheduler/</a>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <th scope="row"><a href="https://luckyian.github.io/Employee-list/">Employee List App</a></th>
+                        <td><img src="./Assets/team-list.gif" alt="Employee List" id="tabletop"></td>
+                        <td>A command line interface application that takes user input to generate an html template displaying information received from the user.  The user is prompted with a selection of different roles for an engineering team, including manager, engineer and intern.  The application asks the user for name, id and email.  All this infromation is stored and displayed once the user has completed creating their team.
+                            
+                         <br>   <a href="https://github.com/luckyian/Employee-list/">  Github: https://github.com/luckyian/Employee-list/</a>
+                        </td>
+                    </tr>
+                   
+                    <tr>
+                        <th scope="row"><a href="https://luckyian.github.io/Weather-Dashboard/">Weather Dashboard
+                                App</a></th>
+                        <td><img src="./Assets/weather-dashboard.gif" alt="Weather-Dashboard" id="tabletop">
+                        </td>
+                        <td>This Weather Dashboard is able to take a city via search input and display the current weather data, and five day forecast with data including UV index, humidity, wind speed, temperature and the date of the weather info.  Each search is saved as a button on the left side of the screen that will re-search the city on click of the button.  All searches are saved in local storage, and the last city searched will populated the fields when the page is refreshed.
+                         <br>   <a href="https://github.com/luckyian/Weather-Dashboard/">Github: https://github.com/luckyian/Weather-Dashboard/</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <a href="https://luckyian.github.io/Readme-generator/">README.md Generator App</a>
+                        </th>
+                        <td>
+                            <img src="./Assets/Trimmed-Readme.gif" alt="README-generator" id="tabletop">
+                        </td>
+                        <td>This README generator takes user input using inquier and populates that a pre-written README template outlined in the homework.  The template creates Description, Installation, Usage, License, Contributing, Tests, and Questions in the Table of Contents, and has direct links to areasin the document that are populated via the generateMarkdown.js. The README file is then generated to the base file structure.
+                         <br>   <a href="https://github.com/luckyian/Readme-generator">Github:  https://github.com/luckyian/Readme-generator</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <a href="https://luckyian.github.io/Quiz/">Javascript Quiz</a>
+                        </th>
+                        <td>
+                            <img src="./Assets/HTML_Quiz.gif" alt="Quiz" id="tabletop">
+                        </td>
+                        <td>In this quiz I used the  index.html, style.css, and script.js to create a quiz that asks questions in a multiple choice format, recording a one point score for each correct answer and subtracting five seconds from a 30 second timer for every wrong answer.  I used JavaScript functions to: create a listening ability to buttons on the HTML, populate the HTML with questions, verify chosen answers with correct answers, save final score to local storage if the user wishes, if saving the score is chosen it asks for intials and saves those as well.  Upon finishing the quiz, the user is taken to the high score HTML page which pulls high scores from the local storage and displays them in order of quiz taken, oldest on top.
+                          <br>  <a href="https://github.com/luckyian/Quiz/">  Github: https://github.com/luckyian/Quiz/</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <div class="col-md-4">
+
+    </div>
+    <footer class="sticky-bottom" style="background-color: midnightblue;">
+        &#169; Ian Wren
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
