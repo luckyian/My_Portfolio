@@ -7,8 +7,7 @@ function Project() {
 
     return (
         <tr>
-            <th scope="row"><a href="https://luckyian.github.io/whats-for-dinner/">What's for dinner?
-                                App</a>
+            <th scope="row"><Link href="https://luckyian.github.io/whats-for-dinner/">What's for dinner? App</Link>
             </th>
             <td class="align-middle"><img src="./Assets/whatsfordinner.gif" alt="Group Project 1"
                 id="tabletop"></img>
