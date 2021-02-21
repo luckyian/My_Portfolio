@@ -8,7 +8,7 @@
             "src": "./Assets/whatsfordinner.gif",
             "alt": "What's For Dinner",
             "github": "https://github.com/luckyian/whats-for-dinner",
-            "project": "https://luckyian.github.io/whats-for-dinner/",
+            "project": "https://luckyian.github.io/whats-for-dinner/"
         },
 
         {
@@ -18,7 +18,7 @@
             "src": "./Assets/Workday.gif",
             "alt": "Workday Scheduler",
             "github": "https://github.com/luckyian/Workday_Scheduler/",
-            "project": "https://luckyian.github.io/Workday_Scheduler/",
+            "project": "https://luckyian.github.io/Workday_Scheduler/"
         },
 
         {
@@ -28,7 +28,7 @@
             "src": "./Assets/team-list.gif",
             "alt": "Employee List App",
             "github": "https://github.com/luckyian/Employee-list/",
-            "project": "https://luckyian.github.io/Employee-list/",
+            "project": "https://luckyian.github.io/Employee-list/"
         },
 
         {
@@ -38,7 +38,7 @@
             "src": "./Assets/Trimmed-Readme.gif",
             "alt": "README.md Generator App",
             "github": "https://github.com/luckyian/Readme-generator",
-            "project": "https://luckyian.github.io/Readme-generator/",
+            "project": "https://luckyian.github.io/Readme-generator/"
         },
 
         {
@@ -48,7 +48,7 @@
             "src": "./Assets/weather-dashboard.gif",
             "alt": "Weather Dashboard",
             "github": "https://github.com/luckyian/Weather-Dashboard/",
-            "project": "https://luckyian.github.io/Weather-Dashboard/",
+            "project": "https://luckyian.github.io/Weather-Dashboard/"
         },
 
         {
@@ -58,7 +58,7 @@
             "src": "./Assets/HTML_Quiz.gif",
             "alt": "Javascript Quiz",
             "github": "https://github.com/luckyian/Quiz/",
-            "project": "https://luckyian.github.io/Quiz/",
+            "project": "https://luckyian.github.io/Quiz/"
         }
     ]
 }
