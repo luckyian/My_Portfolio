@@ -53,7 +53,7 @@ class Portfolio extends Component {
                             alt={data.projects[0].alt}
                             github={data.projects[0].github}
                             project={data.projects[0].project}
-                            demonstration={data.projects[0].demonstration}/>
+                            />
               
               <Project      _id={data.projects[1]._id}
                             cardTitle={data.projects[1].cardTitle}
@@ -62,7 +62,7 @@ class Portfolio extends Component {
                             alt={data.projects[1].alt}
                             github={data.projects[1].github}
                             project={data.projects[1].project}
-                            demonstration={data.projects[1].demonstration}/>
+                            />
 
               <Project      _id={data.projects[2]._id}
                             cardTitle={data.projects[2].cardTitle}
@@ -71,7 +71,7 @@ class Portfolio extends Component {
                             alt={data.projects[2].alt}
                             github={data.projects[2].github}
                             project={data.projects[2].project}
-                            demonstration={data.projects[2].demonstration}/> 
+                            /> 
 
               <Project      _id={data.projects[3]._id}
                             cardTitle={data.projects[3].cardTitle}
@@ -80,7 +80,7 @@ class Portfolio extends Component {
                             alt={data.projects[3].alt}
                             github={data.projects[3].github}
                             project={data.projects[3].project}
-                            demonstration={data.projects[3].demonstration}/>
+                            />
               
               <Project      _id={data.projects[4]._id}
                             cardTitle={data.projects[4].cardTitle}
@@ -89,7 +89,7 @@ class Portfolio extends Component {
                             alt={data.projects[4].alt}
                             github={data.projects[4].github}
                             project={data.projects[4].project}
-                            demonstration={data.projects[4].demonstration}/>
+                            />
               
               <Project      _id={data.projects[5]._id}
                             cardTitle={data.projects[5].cardTitle}
@@ -98,7 +98,7 @@ class Portfolio extends Component {
                             alt={data.projects[5].alt}
                             github={data.projects[5].github}
                             project={data.projects[5].project}
-                            demonstration={data.projects[5].demonstration}/> 
+                            /> 
             </tbody>
 
           </table>
