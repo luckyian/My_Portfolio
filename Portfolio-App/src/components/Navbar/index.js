@@ -17,10 +17,10 @@ function Navbar() {
     <div className="col-md-3">
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-                <Link className="nav-link" to="/index">Home</Link>
-                <Link className="nav-link" to="/contact">Contact</Link>
-                <Link className="nav-link active" to="/portfolio">Portfolio</Link>
-                <Link className="nav-link" to="#" tabindex="3" aria-disabled="true"> </Link>
+                <Link to="/index" className={window.location.pathname === "/index" ? "nav-link active" : "nav-link"}>Home</Link>
+                <Link to="/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</Link>
+                <Link to="/portfolio" className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>Portfolio</Link>
+                <Link to="#" className="nav-link" tabindex="3" aria-disabled="true"> </Link>
             </div>
         </div>
     </div>
