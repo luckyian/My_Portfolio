@@ -32,27 +32,27 @@ function About() {
             enjoys travelling with my wife, Drea, and I and he also enjoys hikes while on a leash.
           </p>
                 <br></br>
-                  <p>
-                    <h3><u>Contact Info</u></h3>
-                    <h4>Email: ian.wren81@gmail.com</h4>
-                    <h4>Phone: Contained in Resume</h4>
-                    <h4><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVA6wazq6Is/view?usp=sharing">Resume</a></h4>
-                    <h4>
-                      <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
-                    </h4>
-                    <h4>
-                      <a href="https://github.com/luckyian">GitHub</a>
-                    </h4>
+                <p>
+                  <h3><u>Contact Info</u></h3>
+                  <h4>Email: ian.wren81@gmail.com</h4>
+                  <h4>Phone: Contained in Resume</h4>
+                  <h4><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVA6wazq6Is/view?usp=sharing">Resume</a></h4>
+                  <h4>
+                    <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
+                  </h4>
+                  <h4>
+                    <a href="https://github.com/luckyian">GitHub</a>
+                  </h4>
 
-                  </p>
-        
-                </div>
+                </p>
 
               </div>
+
             </div>
           </div>
         </div>
       </div>
+    </div>
 
 
 
@@ -60,7 +60,7 @@ function About() {
 
 
 
-    
+
   );
 }
 
