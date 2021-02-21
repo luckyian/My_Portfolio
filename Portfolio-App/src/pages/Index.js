@@ -6,58 +6,61 @@ import Col from "../components/Col";
 
 function About() {
   return (
-    // <div>
-    //   <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
-    //     <h1>Pupster</h1>
-    //     <h2>They're the Good Boys and Girls</h2>
-    //   </Hero>
-    //   <Container style={{ marginTop: 30 }}>
-    //     <Row>
-    //       <Col size="md-12">
-    //         <h1>Welcome To Pupster!</h1>
-    //       </Col>
-    //     </Row>
-    //     <Row>
-    //       <Col size="md-12">
-    //         <p>
-    //           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id
-    //           consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis
-    //           parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus
-    //           sollicitudin at et metus. Ut feugiat tellus nec metus commodo, sed suscipit nisi
-    //           gravida. Duis eget vestibulum quam, ut porttitor sem. Donec sagittis mi sollicitudin
-    //           turpis semper, et interdum risus lobortis. Vestibulum suscipit nunc non egestas
-    //           tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan
-    //           quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet,
-    //           volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque
-    //           mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum
-    //           tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.
-    //         </p>
-    //         <p>
-    //           Phasellus at rutrum nisl. Praesent sed massa ut ipsum bibendum porttitor. Sed
-    //           malesuada molestie velit ac viverra. Quisque a ullamcorper purus. Curabitur luctus mi
-    //           ac mi hendrerit semper. Nulla tincidunt accumsan lobortis. Mauris convallis sapien non
-    //           nibh porta accumsan. Nunc volutpat tempus porttitor. Nunc congue dictum egestas.
-    //           Aliquam blandit mi eu urna scelerisque, vitae volutpat ligula ultricies. Maecenas vel
-    //           porta augue. Fusce mauris ex, dignissim et lacinia ut, tempus eget nibh.
-    //         </p>
-    //         <p>
-    //           Etiam ut massa efficitur, gravida sapien non, condimentum sapien. Suspendisse massa
-    //           tortor, facilisis in neque sit amet, scelerisque elementum tortor. Nullam eget nibh
-    //           sit amet odio lobortis ullamcorper. Nulla bibendum magna nec sem pulvinar lobortis.
-    //           Mauris et imperdiet urna, vitae lobortis dui. Nunc elementum elit mi, non mattis enim
-    //           congue at. Proin mi lectus, ullamcorper id hendrerit eu, ultricies vitae lacus. Nunc
-    //           vehicula, erat eget laoreet condimentum, felis ante malesuada leo, nec efficitur diam
-    //           nisi eget nisi. Cras arcu lacus, tristique in bibendum vitae, elementum eget lorem.
-    //           Maecenas vestibulum volutpat orci eu pharetra. Praesent vel blandit ante, nec faucibus
-    //           libero. Sed ultrices lorem ex, eu facilisis libero convallis ac. Vivamus id dapibus
-    //           eros. Nullam tempor sem rhoncus porta semper. Proin bibendum vulputate nisl, fringilla
-    //           interdum elit pulvinar eu. Quisque vitae quam dapibus, vestibulum mauris quis, laoreet
-    //           massa.
-    //         </p>
-    //       </Col>
-    //     </Row>
-    //   </Container>
-    // </div>
+    <div>
+      <div class="mt-5">
+        <div class="p-5">
+          <div class="card">
+            <div class="card-body">
+              <h1 class="card-title"><u>About Me</u></h1>
+              <div class="float-left" >
+                <img src="./Assets/Ian.jpg" class="p-2" alt="Ian Wren"></img>
+              </div>
+              <div>
+                <p> My name is Ian Wren and I live in Seattle, WA.  I am 38 years old and
+                attend the University of Washington's full-stack coding bootcamp.
+            <br></br>
+            I am looking to have a career as software developer with a focus on web
+            development. I currently work in retail where I have been in management
+            and trained, developed and coached associates to reach thier highest potential.
+            <br></br>
+            I am switching careers now to a vocation that challenges me on different
+            levels and allows me more time to spend with my loved ones, including my wife and
+            two feline fur-babies.
+            <br></br>
+            Some of my hobbies include playing video games, gardening, home improvement on my current
+            residence, hiking, trying new foods and drinks and travelling.  My youngest fur baby, Fox "Spooky" Mulder
+            enjoys travelling with my wife, Drea, and I and he also enjoys hikes while on a leash.
+          </p>
+                <br></br>
+                  <p>
+                    <h3><u>Contact Info</u></h3>
+                    <h4>Email: ian.wren81@gmail.com</h4>
+                    <h4>Phone: Contained in Resume</h4>
+                    <h4><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVA6wazq6Is/view?usp=sharing">Resume</a></h4>
+                    <h4>
+                      <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
+                    </h4>
+                    <h4>
+                      <a href="https://github.com/luckyian">GitHub</a>
+                    </h4>
+
+                  </p>
+        
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+    
   );
 }
 
