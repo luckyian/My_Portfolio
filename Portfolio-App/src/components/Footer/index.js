@@ -3,9 +3,9 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <span>Pupster 2017</span>
-    </footer>
+    <footer className="sticky-bottom" style="background-color: midnightblue;">
+    &#169; Ian Wren
+</footer>
   );
 }
 
