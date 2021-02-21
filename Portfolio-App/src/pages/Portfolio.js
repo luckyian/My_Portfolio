@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import API from "../utils/API";
 import Container from "../components/Container";
 import Project from "../components/Project";
+import data from "../data/projects.json"
 
 class Portfolio extends Component {
   state = {
@@ -45,7 +46,59 @@ class Portfolio extends Component {
               </tr>
             </thead>
             <tbody>
-              <Project/>
+              <Project      _id={data.projects[0]._id}
+                            cardTitle={data.projects[0].cardTitle}
+                            cardText={data.projects[0].cardText}
+                            src={data.projects[0].src}
+                            alt={data.projects[0].alt}
+                            github={data.projects[0].github}
+                            project={data.projects[0].project}
+                            demonstration={data.projects[0].demonstration}/>
+              
+              <Project      _id={data.projects[1]._id}
+                            cardTitle={data.projects[1].cardTitle}
+                            cardText={data.projects[1].cardText}
+                            src={data.projects[1].src}
+                            alt={data.projects[1].alt}
+                            github={data.projects[1].github}
+                            project={data.projects[1].project}
+                            demonstration={data.projects[1].demonstration}/>
+
+              <Project      _id={data.projects[2]._id}
+                            cardTitle={data.projects[2].cardTitle}
+                            cardText={data.projects[2].cardText}
+                            src={data.projects[2].src}
+                            alt={data.projects[2].alt}
+                            github={data.projects[2].github}
+                            project={data.projects[2].project}
+                            demonstration={data.projects[2].demonstration}/> 
+
+              <Project      _id={data.projects[3]._id}
+                            cardTitle={data.projects[3].cardTitle}
+                            cardText={data.projects[3].cardText}
+                            src={data.projects[3].src}
+                            alt={data.projects[3].alt}
+                            github={data.projects[3].github}
+                            project={data.projects[3].project}
+                            demonstration={data.projects[3].demonstration}/>
+              
+              <Project      _id={data.projects[4]._id}
+                            cardTitle={data.projects[4].cardTitle}
+                            cardText={data.projects[4].cardText}
+                            src={data.projects[4].src}
+                            alt={data.projects[4].alt}
+                            github={data.projects[4].github}
+                            project={data.projects[4].project}
+                            demonstration={data.projects[4].demonstration}/>
+              
+              <Project      _id={data.projects[5]._id}
+                            cardTitle={data.projects[5].cardTitle}
+                            cardText={data.projects[5].cardText}
+                            src={data.projects[5].src}
+                            alt={data.projects[5].alt}
+                            github={data.projects[5].github}
+                            project={data.projects[5].project}
+                            demonstration={data.projects[5].demonstration}/> 
             </tbody>
 
           </table>
