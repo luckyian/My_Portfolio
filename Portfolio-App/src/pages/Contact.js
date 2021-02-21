@@ -1,9 +1,15 @@
 import React, { Component } from "react";
-import API from "../utils/API";
 import Card from "../components/Card";
-import Alert from "../components/Alert";
+
 
 class Contact extends Component {
+
+
+
+
+
+
+
   // state = {
   //   image: "",
   //   match: false,
@@ -51,19 +57,36 @@ class Contact extends Component {
 
   render() {
     return (
-      // <div>
-      //   <h1 className="text-center">Make New Friends</h1>
-      //   <h3 className="text-center">
-      //     Thumbs up on any pups you'd like to meet!
-      //   </h3>
-      //   <Card image={this.state.image} handleBtnClick={this.handleBtnClick} />
-      //   <h1 className="text-center">
-      //     Made friends with {this.state.matchCount} pups so far!
-      //   </h1>
-      //   <Alert style={{ opacity: this.state.match ? 1 : 0 }} type="success">
-      //     Yay! That Pup Liked You Too!!!
-      //   </Alert>
-      // </div>
+
+
+      <div class="card">
+        <div class="card-body">
+          <h1 class="card-title">Contact</h1>
+
+
+
+          <form>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Name</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1"
+                placeholder="Jane Doe"></input>
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Email address</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1"
+                placeholder="name@example.com"></input>
+            </div>
+
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Comments/Questions</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+      </div>
+
+
     );
   }
 }
