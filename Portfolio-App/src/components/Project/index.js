@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Project(props) {
 
     return (
-        <div>
+        
         <Card.Body style="text-decoration-color: whitesmoke;">
         <Card.Title style="text-decoration-color: whitesmoke;">{props.cardTitle}</Card.Title>
         <Card.Img src={props.src} alt={props.alt}></Card.Img>
@@ -18,7 +18,7 @@ function Project(props) {
             <Card.Link className="align-middle" href={props.project}>Find it at: {props.title}</Card.Link>
 
        </Card.Body>
-       </div>
+       
     );
 }
 
