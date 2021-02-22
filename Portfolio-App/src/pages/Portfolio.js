@@ -7,9 +7,10 @@ function Portfolio() {
 
 
   return (
+    
     <Container>
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
 
           <Project _id={data.projects[0]._id}
             cardTitle={data.projects[0].cardTitle}
@@ -19,11 +20,11 @@ function Portfolio() {
             github={data.projects[0].github}
             project={data.projects[0].project}
           />
-        </Card.Body>
+        
       </Card>
       
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
           <Project _id={data.projects[1]._id}
             cardTitle={data.projects[1].cardTitle}
             cardText={data.projects[1].cardText}
@@ -32,11 +33,11 @@ function Portfolio() {
             github={data.projects[1].github}
             project={data.projects[1].project}
           />
-        </Card.Body>
+        
       </Card >
       
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
           <Project _id={data.projects[2]._id}
             cardTitle={data.projects[2].cardTitle}
             cardText={data.projects[2].cardText}
@@ -45,11 +46,11 @@ function Portfolio() {
             github={data.projects[2].github}
             project={data.projects[2].project}
           />
-        </Card.Body>
+        
       </Card >
       
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
           <Project _id={data.projects[3]._id}
             cardTitle={data.projects[3].cardTitle}
             cardText={data.projects[3].cardText}
@@ -58,11 +59,11 @@ function Portfolio() {
             github={data.projects[3].github}
             project={data.projects[3].project}
           />
-        </Card.Body>
+        
       </Card >
       
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
           <Project _id={data.projects[4]._id}
             cardTitle={data.projects[4].cardTitle}
             cardText={data.projects[4].cardText}
@@ -71,11 +72,11 @@ function Portfolio() {
             github={data.projects[4].github}
             project={data.projects[4].project}
           />
-        </Card.Body>
+        
       </Card >
       
       <Card id="portfolioCard">
-        <Card.Body style="text-decoration-color: whitesmoke;">
+        
           <Project _id={data.projects[5]._id}
             cardTitle={data.projects[5].cardTitle}
             cardText={data.projects[5].cardText}
@@ -84,10 +85,11 @@ function Portfolio() {
             github={data.projects[5].github}
             project={data.projects[5].project}
           />
-        </Card.Body>
+        
       </Card >
     
     </Container >
+    
   );
 
 }
