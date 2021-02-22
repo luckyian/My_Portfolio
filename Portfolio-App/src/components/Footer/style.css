@@ -1,4 +1,4 @@
-.footer {
+/* .footer {
   min-height: 100px;
   background: #E5E5E5;
   position: relative;
@@ -11,4 +11,7 @@
   right: 0;
   padding: 3px;
   background: #B8B8B8;
+} */
+#foot {
+  background-color: midnightblue;
 }

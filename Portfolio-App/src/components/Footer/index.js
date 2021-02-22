@@ -3,11 +3,12 @@ import "./style.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
 function Footer() {
   return (
-    <Footer className="sticky-bottom" style="background-color: midnightblue;">
+    <footer className="sticky-bottom" id="foot" >
       &#169; Ian Wren
-    </Footer>
+    </footer>
   );
 }
 
