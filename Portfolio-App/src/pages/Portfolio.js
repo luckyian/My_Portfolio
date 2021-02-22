@@ -11,7 +11,7 @@ function Portfolio() {
   return (
     
     <Container>
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
 
           <Project _id={data.projects[0]._id}
@@ -25,7 +25,7 @@ function Portfolio() {
         
       </Card>
       
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
           <Project _id={data.projects[1]._id}
             cardTitle={data.projects[1].cardTitle}
@@ -38,7 +38,7 @@ function Portfolio() {
         
       </Card >
       
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
           <Project _id={data.projects[2]._id}
             cardTitle={data.projects[2].cardTitle}
@@ -51,7 +51,7 @@ function Portfolio() {
         
       </Card >
       
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
           <Project _id={data.projects[3]._id}
             cardTitle={data.projects[3].cardTitle}
@@ -64,7 +64,7 @@ function Portfolio() {
         
       </Card >
       
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
           <Project _id={data.projects[4]._id}
             cardTitle={data.projects[4].cardTitle}
@@ -77,7 +77,7 @@ function Portfolio() {
         
       </Card >
       
-      <Card id="portfolioCard">
+      <Card className="portfolioCard">
         
           <Project _id={data.projects[5]._id}
             cardTitle={data.projects[5].cardTitle}

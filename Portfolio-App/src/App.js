@@ -10,10 +10,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
-  const mystyle = {
-    background: "radial-gradient: (circle, #104518, #1a6e27)"
-  
-  };
   return (
     <Router>
       <div className="mystyle"> 
