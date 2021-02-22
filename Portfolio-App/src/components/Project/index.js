@@ -7,19 +7,18 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Project(props) {
 
     return (
-        <tr>
-            <th scope="row"><Link href={props.project}>{props.title}</Link>
-            </th>
-            <td class="align-middle"><img src={props.src} alt={props.alt}
-                id="tabletop"></img>
+        <div>
+        <Card.Body style="text-decoration-color: whitesmoke;">
+        <Card.Title style="text-decoration-color: whitesmoke;">{props.cardTitle}</Card.Title>
+        <Card.Img src={props.src} alt={props.alt}></Card.Img>
+           <Card.Text className="align-middle">{props.cardText}</Card.Text>
+            <br></br>
+            <Card.Link className="align-middle" href={props.github}>{props.github}</Card.Link>
+            <br></br>
+            <Card.Link className="align-middle" href={props.project}>Find it at: {props.title}</Card.Link>
 
-            </td>
-            <td>{props.text}
-       
-                        <Link href={props.github}>Github: {props.github}</Link>
-            </td>
-
-        </tr>
+       </Card.Body>
+       </div>
     );
 }
 
