@@ -2,6 +2,8 @@ import React from "react";
 import Project from "../components/Project";
 import data from "../data/projects.json";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Card from 'react-bootstrap/Card';
+import Container from 'react-bootstrap/Container';
 
 function Portfolio() {
 
