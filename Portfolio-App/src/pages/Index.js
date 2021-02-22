@@ -1,5 +1,7 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Card from 'react-bootstrap/Card';
+
 
 function Index() {
   return (
@@ -10,7 +12,7 @@ function Index() {
             <Card.Body>
               <Card.Title><u>About Me</u></Card.Title>
               <div className="float-left" >
-                <Card.Img src="../assets/Ian.jpg" className="p-2" alt="Ian Wren"></Card.Img>
+                <Card.Img src="./assets/Ian.jpg" className="p-2" alt="Ian Wren"></Card.Img>
               </div>
               <div>
              <p> My name is Ian Wren and I live in Seattle, WA.  I am 38 years old and
@@ -33,12 +35,12 @@ function Index() {
                   <h3><u>Contact Info</u></h3>
                   <h4>Email: ian.wren81@gmail.com</h4>
                   <h4>Phone: Contained in Resume</h4>
-                  <h4><Link href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVLink6wazq6Is/view?usp=sharing">Resume</Link></h4>
+                  <h4><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVLink6wazq6Is/view?usp=sharing">Resume</a></h4>
                   <h4>
-                    <Link href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</Link>
+                    <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
                   </h4>
                   <h4>
-                    <Link href="https://github.com/luckyian">GitHub</Link>
+                    <a href="https://github.com/luckyian">GitHub</a>
                   </h4>
 
               </p>
