@@ -1,17 +1,16 @@
 import React from "react";
-import Container from "../components/Container";
-import Row from "../components/Row";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function About() {
+function Index() {
   return (
     <div>
-      <div class="mt-5">
-        <div class="p-5">
-          <div class="card">
-            <div class="card-body">
-              <h1 class="card-title"><u>About Me</u></h1>
-              <div class="float-left" >
-                <img src="./Assets/Ian.jpg" class="p-2" alt="Ian Wren"></img>
+      <div className="mt-5">
+        <div className="p-5">
+          <div className="card">
+            <div className="card-body">
+              <h1 className="card-title"><u>About Me</u></h1>
+              <div className="float-left" >
+                <img src="./Assets/Ian.jpg" className="p-2" alt="Ian Wren"></img>
               </div>
               <div>
                 <p> My name is Ian Wren and I live in Seattle, WA.  I am 38 years old and
@@ -62,4 +61,4 @@ function About() {
   );
 }
 
-export default About;
+export default Index;
