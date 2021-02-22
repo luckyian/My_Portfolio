@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import API from "../utils/API";
 import Container from "../components/Container";
 import Project from "../components/Project";
 import data from "../data/projects.json"

@@ -25,7 +25,7 @@
             "_id": 3,
             "title": "Employee List App",
             "text": "A command line interface application that takes user input to generate an html template displaying information received from the user.  The user is prompted with a selection of different roles for an engineering team, including manager, engineer and intern.  The application asks the user for name, id and email.  All this infromation is stored and displayed once the user has completed creating their team.",
-            "src": "./Assets/team-list.gif",
+            "src": "../../Assets/team-list.gif",
             "alt": "Employee List App",
             "github": "https://github.com/luckyian/Employee-list/",
             "project": "https://luckyian.github.io/Employee-list/"
