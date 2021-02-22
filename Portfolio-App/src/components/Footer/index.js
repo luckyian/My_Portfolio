@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Footer() {
   return (
-    <footer className="sticky-bottom" id="foot" >
+    <footer className="sticky-bottom" bg="dark" >
       &#169; Ian Wren
     </footer>
   );

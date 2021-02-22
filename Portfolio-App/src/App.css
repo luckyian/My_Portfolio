@@ -31,3 +31,6 @@
     transform: rotate(360deg);
   }
 }
+.mystyle {
+background: radial-gradient(circle, #1a6e27, #083d10, #041c07 );
+}
