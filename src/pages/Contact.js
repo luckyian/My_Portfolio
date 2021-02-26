@@ -7,7 +7,9 @@ import Button from "react-bootstrap/Button";
 function Contact() {
 
   return (
-    <Card>
+    <div>
+      <br></br>
+    <Card className="aboutBack">
       <Card.Body>
         <Card.Title>
           <h1>Contact</h1>
@@ -35,7 +37,11 @@ function Contact() {
 
       </Card.Body>
     </Card>
+    <br></br>
 
+    <br></br>
+    
+    </div>
 
   );
 

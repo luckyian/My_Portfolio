@@ -2,7 +2,10 @@
     margin: 15px;
 }
 
-#tabletop {
+.tabletop {
     padding-left: 20%;
 }
 
+.aboutBack {
+    background: radial-gradient(circle, #b0c9af, #afc9c9, #afb8c9);
+}

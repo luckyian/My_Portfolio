@@ -14,7 +14,7 @@ function Index() {
     <div>
       <div className="mt-5">
         <div className="p-5">
-          <Card>
+          <Card className="aboutBack">
             <Card.Body>
               <Card.Title><h1><u>About Me</u></h1></Card.Title>
               <div className="float-left" >

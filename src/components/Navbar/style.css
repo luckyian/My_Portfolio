@@ -3,6 +3,10 @@ nav.navbar.navbar-default {
 }
 
 .navibar {
-  background: seashell;
-  text-decoration: seashell;
+  
+}
+
+.navitext{
+  /* background: seashell; */
+  background: radial-gradient(circle, #0a2d38, #145b70, #1e8eb0);
 }

@@ -12,6 +12,6 @@
   padding: 3px;
   background: #B8B8B8;
 } */
-#foot {
-  background-color: midnightblue;
+.foot {
+  background: radial-gradient(circle, #0a2d38, #145b70, #1e8eb0);
 }
