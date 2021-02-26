@@ -3,5 +3,6 @@ nav.navbar.navbar-default {
 }
 
 .navibar {
-  background: #041c07;
+  background: seashell;
+  text-decoration: seashell;
 }

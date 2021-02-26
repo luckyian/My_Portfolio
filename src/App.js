@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Contact from "./pages/Contact";
 import Index from "./pages/Index";
 import Portfolio from "./pages/Portfolio";
@@ -12,20 +12,20 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <div className="mystyle"> 
+      <div className="mystyle">
         <Navibar />
         <Wrapper>
-        
-          <Switch>
+
+
           <Route exact path="/" component={Index} />
           <Route exact path="/index" component={Index} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
-          </Switch>
+
         </Wrapper>
         <Footer />
       </div>
-      </Router>
+    </Router>
   );
 }
 
