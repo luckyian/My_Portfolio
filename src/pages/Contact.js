@@ -39,6 +39,11 @@ function Contact() {
     </Card>
     <br></br>
 
+
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
     <br></br>
     
     </div>
