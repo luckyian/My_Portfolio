@@ -36,15 +36,24 @@ function Contact() {
         </Form>
 
       </Card.Body>
+      <br></br>
+
+
+
     </Card>
     <br></br>
-
-
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
     
     </div>
 

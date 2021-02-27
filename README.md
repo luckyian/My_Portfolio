@@ -8,7 +8,7 @@ The index.html page has a biography about myself and a picture of me that is wra
 
 The contact.html page contains a form that can be filled and submitted.  The form contains a name input box, an e-mail input box, a comments/questions box, and a submit button.
 
-The portfolio.html page contains five placeholder images that have a border to give spacing between the images to make it visually appealing.
+The portfolio.html page contains projects that I have worked on throughout my career.
 
 ## Built with the following tech:
 
@@ -17,6 +17,8 @@ The portfolio.html page contains five placeholder images that have a border to g
 *CSS
 *Javascript
 *React
+*Github Pages
+*Bootstrap
 
 
 ### Published link:
