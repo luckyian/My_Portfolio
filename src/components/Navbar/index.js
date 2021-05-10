@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navibar() {
     return (
-        <Navbar expand="md" className="navibar" className="navitext">
+        <Navbar expand="md" className="navibar" className="navitext" variant="dark" sticky="top">
             <div className="col-md-9">
                 <Navbar.Brand href="#"  >Ian Wren</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
