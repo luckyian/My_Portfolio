@@ -21,8 +21,8 @@ function Index() {
                 <Card.Img src="./assets/Ian.jpg" className="p-2" alt="Ian Wren"></Card.Img>
               </div>
               <div>
-             <p><h4> My name is Ian Wren and I live in Seattle, WA.  I am 38 years old and
-                am looking for work as a full-stack developer.
+             <p><h4> My name is Ian Wren and I live in Seattle, WA.  I am 39 years old and
+                am looking for work as a front-end or full-stack developer.
              <br></br>
              <br></br>
              I am looking to have a career as software developer with a focus on web
@@ -44,7 +44,7 @@ function Index() {
                   <h2><u>Contact Info</u></h2>
                   <h3>Email: ian.wren81@gmail.com</h3>
                   <h3>Phone: Contained in Resume</h3>
-                  <h3><a href="https://drive.google.com/file/d/1repu1_TLSkM5UwfJFO3LysVA6wazq6Is/view?usp=sharing">Resume</a></h3>
+                  <h3><a href="https://drive.google.com/file/d/1KBp5nbXYhTtL1wJ69WlDonhUA3KGbean/view?usp=sharing">Resume</a></h3>
                   <h3>
                     <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
                   </h3>
