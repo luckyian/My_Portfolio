@@ -68,6 +68,15 @@
             "alt": "Javascript Quiz",
             "github": "https://github.com/luckyian/Quiz/",
             "project": "https://luckyian.github.io/Quiz/"
+        },
+        {
+            "_id": 8,
+            "cardTitle": "Fortress of the Bear Band Website",
+            "cardText": "This is a website the band 'Fortress of the Bear' asked me to build for them.  I used React to build the site from scratch.  The band gave me a photo and some basic instructions of the layout.  I purchased the domain name from google domains, and once the site was built, I hooked the deployed github page to the domain name.  It has a sticky navbar, radial gradient, imbedded spotify playlist, imbedded youtube videos on a dedicated page, and a contact page with the band's email.  It is also mobile resposive with all cards and containers visable and working on mobile.",
+            "src": "./assets/FortressoftheBear.gif",
+            "alt": "Fortress of the Bear",
+            "github": "https://github.com/luckyian/fortressofthebear",
+            "project": "https://fortressofthebear.com"
         }
     ]
 }

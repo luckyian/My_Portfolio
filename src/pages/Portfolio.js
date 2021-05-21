@@ -24,6 +24,19 @@ function Portfolio() {
           />
         
       </Card>
+      <Card className="portfolioCard">
+        
+
+        <Project _id={data.projects[7]._id}
+          cardTitle={data.projects[7].cardTitle}
+          cardText={data.projects[7].cardText}
+          src={data.projects[7].src}
+          alt={data.projects[7].alt}
+          github={data.projects[7].github}
+          project={data.projects[7].project}
+        />
+      
+    </Card>
       
       <Card className="portfolioCard">
         
@@ -37,6 +50,8 @@ function Portfolio() {
           />
         
       </Card >
+      
+      
       
       <Card className="portfolioCard">
         
