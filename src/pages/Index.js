@@ -21,7 +21,7 @@ function Index() {
                 <Card.Img src="./assets/Ian.jpg" className="p-2" alt="Ian Wren"></Card.Img>
               </div>
               <div>
-             <p><h4> My name is Ian Wren and I live in Seattle, WA.  I am 39 years old and
+             <p><h4> My name is Ian Wren and I live in Seattle, WA.  I am 40 years old and
                 am looking for work as a front-end or full-stack developer.
              <br></br>
              <br></br>
