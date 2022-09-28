@@ -26,8 +26,8 @@ function Index() {
              <br></br>
              <br></br>
              I am looking to have a career as software developer with a focus on web
-             development. I currently work freelance for individuals and groups to design, build and deploy websites, and work with
-             a team of developers designing and building a mobile application using react native set to be released in September of 2021.
+             development. I currently work freelance for individuals and groups to design, build and deploy websites. My current projects include
+             a website for a baker in western Washington state, and developing projects with new technologies to keep my skills sharp.
              <br></br>
              <br></br>
              I would like to work full-time for a software firm that allows me more time to spend with my loved ones, including my wife and
