@@ -77,6 +77,15 @@
             "alt": "Fortress of the Bear",
             "github": "https://github.com/luckyian/fortressofthebear",
             "project": "https://luckyian.github.io/fortressofthebear/"
+        },
+        {
+            "_id": 9,
+            "cardTitle": "Merry Little Baker Website",
+            "cardText": "This a website a local baker in western Washington state asked me to build for her.  I used React to build the site from scratch.  The baker gave me some photos and some basic instructions of the layout.  I purchased the domain name from google domains, and once the site was built, I hooked the deployed github page to the domain name.  It has a sticky navbar, radial gradient, and a contact page with the baker's emails, phone and social media.  It is also mobile resposive with all cards and containers visable and working on mobile.",
+            "src": "./assets/FortressoftheBear.gif",
+            "alt": "Merry Little Baker",
+            "github": "https://github.com/luckyian/merryBaker",
+            "project": "https://MerryLittleBaker.com/"
         }
     ]
 }
