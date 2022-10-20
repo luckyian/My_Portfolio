@@ -36,7 +36,7 @@ function Index() {
              <br></br>
              Some of my hobbies include playing video games, gardening, home improvement on my current
              residence, hiking, trying new foods and drinks and travelling.  My youngest fur baby, Fox "Spooky" Mulder
-             enjoys travelling with my wife, Drea, and I and he also enjoys hikes while on a leash.
+             enjoys going on walks or adventures around the neighborhood on his leash.
              </h4></p>
              <br></br>
              <br></br>
@@ -44,7 +44,7 @@ function Index() {
                   <h2><u>Contact Info</u></h2>
                   <h3>Email: ian.wren81@gmail.com</h3>
                   <h3>Phone: Contained in Resume</h3>
-                  <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4BY1-HjCmVZwl45Gg?e=UWvhga">Resume</a></h3>
+                  <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4EQTPFhLh06NqGOfQ?e=0oQU2u">Resume</a></h3>
                   <h3>
                     <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
                   </h3>
