@@ -22,7 +22,8 @@ function Index() {
               </div>
               <div>
              <p><h4> My name is Ian Wren and I live in Seattle, WA.  I
-                am looking for work as a front-end or full-stack developer.
+                am looking for work as a front-end or full-stack developer.  I enjoy learning new 
+                technologies and enjoy math and science.
              <br></br>
              <br></br>
              I am looking to have a career as software developer with a focus on web
