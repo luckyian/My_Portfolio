@@ -22,7 +22,7 @@ The portfolio.html page contains projects that I have worked on throughout my ca
 
 
 ### Published link:
-https://luckyian.github.io/My_Portfolio/index.html
+https://ianwren.dev
 
 #### Contributer:
 
