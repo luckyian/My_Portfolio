@@ -19,6 +19,7 @@ The portfolio.html page contains projects that I have worked on throughout my ca
 *React
 *Github Pages
 *Bootstrap
+*Google Domains
 
 
 ### Published link:
