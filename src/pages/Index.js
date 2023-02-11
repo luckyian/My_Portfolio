@@ -31,7 +31,7 @@ function Index() {
              a website for a baker in western Washington state, and developing projects with new technologies to keep my skills sharp.
              <br></br>
              <br></br>
-             I would like to work full-time for a software firm that allows me more time to spend with my loved ones, including my wife and
+             I would like to work full-time for a software firm that allows me more time to spend with my loved ones, including my spouse and
              two feline fur-babies.
              <br></br>
              <br></br>
