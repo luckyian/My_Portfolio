@@ -46,7 +46,7 @@ function Index() {
                   <h3>Phone: Contained in Resume</h3>
                   <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4NcTNck7aEqtoB9Wg?e=8H6sZv">Resume</a></h3>
                   <h3>
-                    <a href="https://linkedin.com/in/ian-wren-53b382112">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/ian-wren/">LinkedIn</a>
                   </h3>
                   <h3>
                     <a href="https://github.com/luckyian">GitHub</a>
