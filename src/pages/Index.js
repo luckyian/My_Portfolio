@@ -44,8 +44,8 @@ function Index() {
                   <h2><u>Contact Info</u></h2>
                   <h3>Email: ian.wren81@gmail.com</h3>
                   <h3>Phone: Contained in Resume</h3>
-                  <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4NcTNck7aEqtoB9Wg?e=8H6sZv">Resume</a></h3>
-                  <h3>
+                  <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4NcTNck7aEqtoB9Wg?e=yUZWfP">Resume</a></h3>
+                  <h3>        
                     <a href="https://www.linkedin.com/in/ian-wren/">LinkedIn</a>
                   </h3>
                   <h3>
