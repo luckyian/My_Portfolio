@@ -40,6 +40,7 @@ function Index() {
              </h4></p>
              <br></br>
              <br></br>
+             <br></br>
              <p>
                   <h2><u>Contact Info</u></h2>
                   <h3>Email: ian.wren81@gmail.com</h3>
