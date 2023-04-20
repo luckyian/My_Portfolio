@@ -29,7 +29,7 @@ function Contact() {
           </Form.Group>
 
           <Form.Group>
-            <Form.Label for="exampleFormControlTextarea1">Comments/Questions</Form.Label>
+            <Form.Label for="exampleFormControlTextarea1">Questions:</Form.Label>
             <Form.Control id="exampleFormControlTextarea1" rows="3"></Form.Control>
           </Form.Group>
           <Button type="submit" className="btn btn-primary">Submit</Button>
