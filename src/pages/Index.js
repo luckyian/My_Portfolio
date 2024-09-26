@@ -22,7 +22,7 @@ function Index() {
               </div>
               <div>
              <p><h4> My name is Ian Wren and I live in Seattle, WA.  I
-                am looking for work as a front-end or full-stack developer.  I enjoy learning new 
+                am looking for work as a cyber security analyst, or for work in the Information Technology field that will lead to a cyber security career.  I have experience designing and developing web based applications and websites using javascript based languages.  I enjoy learning new 
                 technologies and enjoy math and science.
              <br></br>
              <br></br>
@@ -30,8 +30,7 @@ function Index() {
              a website for a baker in western Washington state, and developing several projects with new technologies to keep my skills sharp.
              <br></br>
              <br></br>
-             I would like to work full-time for a software firm that allows me more time to spend with my loved ones, including my spouse and
-             two feline fur-babies.
+             I would like to work full-time defending and protecting software products and personal information.  I have found that I would like to dedicate my career to doing good in the world protecting data and applications from bad actors.
              <br></br>
              <br></br>
              Some of my hobbies include playing video games, gardening, home improvement on my current
