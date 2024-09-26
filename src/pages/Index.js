@@ -30,7 +30,7 @@ function Index() {
              a website for a baker in western Washington state, and developing several projects with new technologies to keep my skills sharp.
              <br></br>
              <br></br>
-             I would like to work full-time defending and protecting software products and personal information.  I have found that I would like to dedicate my career to doing good in the world protecting data and applications from bad actors.
+             I would like to work full-time defending and ensuring protection software products and personal information.  I have found that I would like to dedicate my career to doing good in the world protecting data and applications from bad actors.
              <br></br>
              <br></br>
              Some of my hobbies include playing video games, gardening, home improvement on my current
@@ -45,7 +45,7 @@ function Index() {
                   <br></br>
                   <h3>Email: ian.wren81@gmail.com</h3>
                   <h3>Phone: Contained in Resume</h3>
-                  <h3><a href="https://1drv.ms/b/s!AnD0ThTIlXlzg4RLgi7JB7s5Z0fHoQ?e=4CyJ0z">Resume</a></h3>
+                  <h3><a href="https://docs.google.com/document/d/1ickjrvG_syPrTeB2IZcWsGAes5IzzWaSDlrnssVhsOg?usp=drive_fs">Resume</a></h3>
                   <h3>        
                     <a href="https://www.linkedin.com/in/ian-wren/">LinkedIn</a>
                   </h3>
