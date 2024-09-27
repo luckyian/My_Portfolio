@@ -8,7 +8,7 @@ function Contact() {
 
   return (
     <div>
-      <br></br>
+      {/* <br></br>
     <Card className="aboutBack">
       <Card.Body>
         <Card.Title>
@@ -41,7 +41,7 @@ function Contact() {
 
 
     </Card>
-    <br></br>
+    <br></br> */}
 <br></br>
 <br></br>
 <br></br>
