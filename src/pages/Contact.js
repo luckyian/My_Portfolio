@@ -8,6 +8,17 @@ function Contact() {
 
   return (
     <div>
+
+      <Card className="aboutBack">
+<Card.Header>
+
+</Card.Header>
+<Card.Body>
+  <Card.Title>
+    
+  </Card.Title>
+</Card.Body>
+      </Card>
       {/* <br></br>
     <Card className="aboutBack">
       <Card.Body>
