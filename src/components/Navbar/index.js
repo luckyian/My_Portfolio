@@ -18,8 +18,8 @@ function Navibar() {
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
                         <Nav.Link href="#/index" >Home</Nav.Link>
-                        <Nav.Link href="#/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</Nav.Link>
-                        <Nav.Link href="#/portfolio" >Portfolio</Nav.Link>
+                        <Nav.Link href="#/contact" className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Analytics Portfolio</Nav.Link>
+                        <Nav.Link href="#/portfolio" >Dev Portfolio</Nav.Link>
                         <Nav.Link href="#" className="nav-link" tabindex="3" aria-disabled="true"> </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
