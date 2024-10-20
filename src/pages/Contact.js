@@ -3,10 +3,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from "react-bootstrap/Card";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
+import { Container } from "react-bootstrap";
 
 function Contact() {
 
   return (
+    <Container>
     <div>
 
       <Card className="aboutBack">
@@ -67,6 +69,7 @@ function Contact() {
 <br></br>
     
     </div>
+    </Container>
 
   );
 
