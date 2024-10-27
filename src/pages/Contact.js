@@ -12,7 +12,15 @@ function Contact() {
   return (
     <Container>
     <Card>
-
+     <Project
+     _id={data.projects[0]._id}
+     cardTitle={data.projects[0].cardTitle}
+     cardText={data.projects[0].cardText}
+     src={data.projects[0].src}
+     alt={data.projects[0].alt}
+     project={data.projects[0].project}
+     
+     />
     </Card>
     </Container>
 
