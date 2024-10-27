@@ -3,7 +3,11 @@
 "analytics":[
 {
 "_id":1,
-"cardTitile":"Analysis 1",
+"cardTitle":"Analysis 1",
+"cardText":"Basic analytics graph using multiple metrics",
+"src":"./assets/graph.gif",
+"alt":"Analysis One",
+"project":"Business Analytics One"
 
 }
 
